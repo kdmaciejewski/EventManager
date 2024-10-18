@@ -1,0 +1,20 @@
+{
+  "FSharp.suggestGitignore": false,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "EventManager",
+      "database": "EventManager",
+      "username": "root"
+    }
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

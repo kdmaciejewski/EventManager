@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tech.getarrays.EventManager.EventManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.54 s -- in tech.getarrays.EventManager.EventManagerApplicationTests
